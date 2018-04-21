@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidUIControlDemo</string>
+    <string name="button">MyButton</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="myTextView">TextView</string>
 </resources>
